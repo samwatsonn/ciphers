@@ -1,6 +1,6 @@
 # A collection of automatic cipher decryption programs
 
-This is a collection of some of the cipher decryption programs I wrote for the National Cipher Challenge. They are written in JavaScript as they were orginally used a part of a private website I created for myself and my teammates. As such I have to go through each to make them more readable and that task is still in progress. See below for a list of currently upload programs.
+This is a collection of some of the cipher decryption programs I wrote for the National Cipher Challenge 2017/2018/2019. They are written in JavaScript as they were orginally used a part of a private website I created for myself and my teammates. As such I have to go through each to make them more readable and that task is still in progress. See below for a list of currently upload programs.
 
 Current Programs:
  - Automatic Monoalphabetic Substitution solver
