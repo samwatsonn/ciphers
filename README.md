@@ -8,3 +8,5 @@ Current Programs:
  - Automatic Caesar solver
  - English Fitness Test (Gauges "how english" a text is)
  - Index Of Coincidence
+
+*Please be aware that in the translation of these programs there may be the odd typo. Also that they were intended for use in a larger website so are not guaranteed to work standalone"
